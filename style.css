@@ -24,6 +24,9 @@ button {
         display: none;
     } 
 }
+.icon-md :hover {
+    text-decoration: none;
+}
 .p2-social {
     position: relative;
 }
