@@ -6,6 +6,13 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+#bloc-5-cta h2 {
+    color: white;
+}
+
+.col-sm-3 {
+    margin-top: 25px;
+}
 
 a,
 button {
